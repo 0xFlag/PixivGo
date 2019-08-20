@@ -5,7 +5,7 @@ Pixiv插画，预览下载，批量下载，关键词搜索，不用梯子<br />
 编程软件：Visual Studio 2012<br />
 编程环境：.Net Framework 4.5<br />
 Version版本: 1.0<br />
-API 调用地址：https://api.imjad.cn/pixiv_v2.md 感谢这位大佬提供<br />
+API 调用地址：https://api.imjad.cn/pixiv_v2.md （感谢这位大佬提供(ง •_•)ง）<br />
 <br />
 功能：<br />
 1.预览下载（预览图片，图片信息）<br />
@@ -24,5 +24,4 @@ API 调用地址：https://api.imjad.cn/pixiv_v2.md 感谢这位大佬提供<br 
 3.本来想美化下程序的，去试了下，感jiao好麻烦，而且花里胡哨，所以就不美化了qaq<br />
 <br />
 上传日期：2019/08/20<br />
-<br />
-__(:з」∠)__
+<br />_(:з」∠)_ 
