@@ -295,6 +295,7 @@ namespace PixivGo
 
         private void searchword()
         {
+            this.listBox1.Items.Clear();
             this.pictureBox1.Image = null;
             this.textBox2.Clear();
             this.textBox3.Clear();
