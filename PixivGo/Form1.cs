@@ -168,6 +168,7 @@ namespace PixivGo
                     path = pathing;
                     myWebClient.Headers.Clear();
                     this.textBox3.AppendText(DateTime.Now.ToString("yyyy-MM-dd hh:mm:ss") + "----" + zpid + "----下载完成！(*^▽^*)\r\n"); //下载日志记录
+                    break; //跳出循环
                 }
             }
             else
@@ -262,6 +263,7 @@ namespace PixivGo
                 truein = truein + 1;
                 this.label6.Text = truein.ToString();
                 this.progressBar1.Value = this.progressBar1.Value + (1 / total) * 100;
+                break; //跳出循环
             }
         }
 
